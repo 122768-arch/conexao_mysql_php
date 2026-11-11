@@ -1,6 +1,6 @@
 <?php
 $host = "sql101.infinityfree.com";
-$banco = "if0_43416497_XXX";
+$banco = "if0_43416497_escola";
 $usuario = "if0_43416497";
 $senha = "pedrinxs";
 
