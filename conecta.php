@@ -1,5 +1,4 @@
 <?php
-
 $host = "sql101.infinityfree.com";
 $banco = "if0_43416497_XXX";
 $usuario = "if0_43416497";
