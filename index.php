@@ -1,10 +1,16 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <title>Site TDS III</title>
+    <meta charset="UTF-8">
+    <title>Conexão MySQL com PHP</title>
 </head>
 <body>
-    <?php echo "<h1>Olá, mundo!</h1>" ?>
+
+    <h1>Conexão MySQL com PHP</h1>
+
+    <h2>Bem-vindo!</h2>
+
+    <p>Meu primeiro site publicado pelo GitHub.</p>
+
 </body>
 </html>
